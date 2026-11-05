@@ -1,0 +1,3 @@
+Python is amazing
+Dictionaries are very powerful
+Files close themselves
